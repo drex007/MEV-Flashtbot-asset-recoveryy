@@ -36,7 +36,7 @@ You can change the following below for increased gas and faster transaction
 ## How to run 
 - Ensure you have nodejs an npm installed on your local machine or VPS
 - run "**npm install**"
-- run "**token nft-recovery.js**"
+- run "**node token-recovery.js**"
 
 
 
